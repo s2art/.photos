@@ -1,2 +1,2 @@
 # .photos
-stuarts photofraphy
+stuarts photography
